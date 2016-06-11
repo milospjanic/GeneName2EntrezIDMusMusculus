@@ -29,6 +29,7 @@ head file.txt.genename
 11622 Ahr	4
 101056341 Gapdh	5
 
+</pre>
 Note that **only lines with mathces in the Biomart database** are present in the output , those without a match are not in the output file.
 
 
