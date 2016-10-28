@@ -1,6 +1,6 @@
 # GeneName2EntrezIDMusMusculus
 
-This is combined bash/R script that will use a file with **mouse** gene symbols in **a first column** of a file and preppend a ENREZ ID to it, while keeping the structure of the file from  other columns. Script sets its host to ensembl.org thus it could be especially useful when biomaRt site is down.
+This is combined bash/R script that will use a file with **mouse** gene symbols in **a first column** of a file and prepends an ENREZ ID to it, while keeping the structure of the file from other columns intact. Script sets its host to ensembl.org thus it could be especially useful when biomaRt site is down.
 
 
 # Dependencies
